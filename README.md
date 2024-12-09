@@ -1,4 +1,4 @@
-![headerImage]("C:\Users\786\Downloads\DALL·E 2024-11-11 13.21.08 - Create an image of a young, motivated software engineer working on multiple projects with a focus on AI and machine learning. The workspace is modern .webp")
+![headerImage](https://github.com/NajmiHassan/NajmiHassan/blob/main/Intro%20image.png)
 - 👋 Hi, I’m @NajmiHassan
 - 👀 I’m interested in Python Programming and Machine Learning
 - 🌱 I’m currently a learner in AI

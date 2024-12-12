@@ -1,4 +1,4 @@
-my_pic.png
+![headerImage](my_pic.png)
 - 👋 Hi, I’m @NajmiHassan
 - 👀 I’m interested in Python Programming and Machine Learning
 - 🌱 I’m currently a learner in AI

@@ -59,21 +59,29 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/NajmiHassan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+# Connect with me! 💬 
+<p align="center">
+<a href="https://github.com/NajmiHassan" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://x.com/ether_bell?t=b4QlOrvNvoWJHNygOCBSKw&s=08" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/najmihassan" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/najmihassan456" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<a href="https://discordapp.com/users/weather_bell" target="_blank">
+<img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Najmi_Hassan/" target="_blank">
+<img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+</a>
+</p>
 
 <br/>  
 
-
+# GitHub Stats📈:
+<p align="center">
+    <a href="https://github.com/NajmiHassan">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NajmiHassan&show_icons=true&rank_icon=github&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NajmiHassan&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
 

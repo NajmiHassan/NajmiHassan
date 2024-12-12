@@ -1,4 +1,4 @@
-![headerImage](https://github.com/NajmiHassan/NajmiHassan/blob/main/Intro%20image.png)
+![headerImage](najmi.png)
 - 👋 Hi, I’m @NajmiHassan
 - 👀 I’m interested in Python Programming and Machine Learning
 - 🌱 I’m currently a learner in AI

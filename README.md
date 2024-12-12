@@ -1,4 +1,4 @@
-![headerImage](najmi.png)
+[![headerImage](opt 2.png)](https://github.com/NajmiHassan/NajmiHassan/blob/328fc58127b0ce50d93ea65f41a1d4a1bb93c3de/opt%202.png)
 - 👋 Hi, I’m @NajmiHassan
 - 👀 I’m interested in Python Programming and Machine Learning
 - 🌱 I’m currently a learner in AI

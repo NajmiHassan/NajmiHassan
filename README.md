@@ -1,8 +1,8 @@
 ![headerImage](my_pic.png)
-- 👋 Hi, I’m @NajmiHassan
+- 👋 Hi, I’m Najmi Hassan
 - 👀 I’m interested in Python Programming and Machine Learning
-- 🌱 I’m currently a learner in AI
-- 💞️ I’m looking to collaborate on ML Projects
+- 🌱 I’m currently a learner in Artificial Intelligence and ML
+- 💞️ I’m looking to collaborate on ML/DL/NLP Projects
 - 📫 najmi8815@gmail.com
 
 

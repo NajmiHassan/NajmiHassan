@@ -1,75 +1,144 @@
-![headerImage](my_pic.png)
-- 👋 Hi, I’m Najmi Hassan
-- 👀 I am interested in Python Programming and Machine Learning
-- 🌱 I am currently a learner in Artificial Intelligence and ML
-- 💞️ I am looking to collaborate and research on Machine Learning, NLP, Computer Vision, Cybersecurity, Autonomous systems
-- 📫 najmi8815@gmail.com
+# Hi there, I'm Najmi Hassan 👋
 
-<br/>  
+## Software Engineer | AI Enthusiast | Open Source Contributor
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-url)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=flat&logo=leetcode)](your-leetcode-url)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your-email)
 
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+### 🚀 About Me
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-</div>
+I'm a passionate Software Engineer specializing in **AI/ML** and **Web Development**, with a strong focus on building intelligent systems that solve real-world problems. Fresh graduate from Minhaj University Lahore with a CGPA of 3.67/4.00, I love participating in hackathons and competitive programming challenges.
 
-</td><td valign="top" width="33%">
+- 🏆 **1st Place** winner at RAISE Hackathon
+- 🎯 Participated in **10+ international AI hackathons**
+- 🧩 Solved all 9/9 puzzles in **Harvard CS50x Puzzle Day**
+- 🌟 Competed in **MIT Informatics Tournament 2025** & **UC Berkeley CALICO**
+- 📚 Active mentor and instructor for GenAI & Data Science courses
 
-### DevOps  
-<div align="center">  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-</div>
+---
 
-</td></tr></table>  
+### 💻 Technical Skills
 
-<br/>  
+**Languages & Frameworks:**
+```
+Python | JavaScript | Django | FastAPI | Streamlit
+HTML | CSS | Bootstrap | Material UI
+```
 
-# Connect with me! 💬 
-<p align="center">
-<a href="https://github.com/NajmiHassan" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/najmihassan" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://discordapp.com/users/weather_bell" target="_blank">
-<img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/Najmi_Hassan/" target="_blank">
-<img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
-</a>
-</p>
+**AI/ML & Data Science:**
+```
+TensorFlow | PyTorch | Keras | Pandas | NumPy | Matplotlib
+LangChain | Hugging Face | OpenAI | Groq | Llama | Mistral AI
+```
 
-<br/>  
+**Databases & Tools:**
+```
+MySQL | PostgreSQL | Firebase | Git | GitHub | Vercel
+Jupyter Notebook | Google Colab | VS Code
+```
 
-# GitHub Stats📈:
-<p align="center">
-    <a href="https://github.com/NajmiHassan">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NajmiHassan&show_icons=true&rank_icon=github&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NajmiHassan&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-</p>
+---
 
+### 🏆 Featured Projects
+
+#### 🎨 [RAISE YOUR HACK Winner - AI Fashion Shopping](project-link)
+> Innovative fashion-tech project with multimodal AI-powered shopping experience
+- **Tech:** Llama, Groq, Fetch.ai, TypeScript, Node.js
+- Built dynamic chatroom with text, image, and voice inputs
+- User-centered responsive UI design
+
+#### 🧬 [GeneGazer - Bioinformatics Analysis Tool](project-link)
+> Single-cell RNA-seq data analysis platform with AI insights
+- **Tech:** Gemini AI, Streamlit, Scanpy, Leiden Algorithm
+- Led international team in Zero Limits Hackathon
+- Interactive visualizations with context-aware AI analysis
+
+#### 🔬 [Virtual Biology Lab - Multi-Agent System](project-link)
+> AI-powered experimental workflow automation
+- **Tech:** CrewAI, Mistral LLM, Streamlit
+- 5 specialized AI agents for protocol interpretation to report generation
+- Automated biological experiment simulation
+
+#### 📚 [AI Grammar Learning Platform](project-link)
+> Intelligent English learning system for high school students
+- **Tech:** GPT-5, Streamlit
+- Bilingual (Urdu-English) content generation
+- Real-time personalized feedback and assessments
+
+#### 🌫️ [Air Pollution Prediction System](project-link)
+> ML-powered air quality forecasting application
+- **Tech:** Streamlit, Hugging Face, Supervised ML
+- 92% accuracy in air quality prediction
+- PM 2.5 level forecasting
+
+#### 🎥 [Real-Time Object Detection & Counting](project-link)
+> YOLO-based video analysis tool
+- **Tech:** YOLO v4, Streamlit, Hugging Face
+- Frame-by-frame object detection
+- Automated object counting and reporting
+
+---
+
+### 🎓 Education & Achievements
+
+**BS Software Engineering** | Minhaj University Lahore (2020-2024)
+- CGPA: 3.67/4.00
+- 40% merit scholarship throughout degree
+- Final Year Project: Image Forgery Detection System (85% accuracy)
+
+**Notable Achievements:**
+- 🌍 Duolingo English Test: 130 (≈ IELTS 7.0)
+- 🎯 Harvard CS50x Puzzle Day: 9/9 puzzles solved
+- 🏅 10+ International AI Hackathons
+- 🎄 Advent of Code 2024 participant
+
+---
+
+### 💼 Experience
+
+**GenAI Course Trainer, Mentor & Judge** | Aptech & ASPIRE Pakistan
+- Delivered GenAI sessions to 400+ non-technical participants
+- Mentored and judged hackathon projects
+
+**Python Developer Intern** | IREG-IT, Lahore
+- Linux & Asterisk VOIP system development
+- Implemented conference call systems
+
+**Instructor & Moderator** | E-Learning Platforms
+- Taught Data Analysis, Python, ML workshops
+- IELTS & Duolingo course instruction
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+### 🌱 Currently Exploring
+
+- Advanced LLM Fine-tuning Techniques
+- Multi-Agent AI Systems
+- Bioinformatics & Computational Biology
+- DevOps & Cloud Technologies
+
+---
+
+### 📫 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+- 💼 LinkedIn: [Your Profile](your-linkedin-url)
+- 📧 Email: your.email@example.com
+- 🏅 LeetCode: [Your Profile](your-leetcode-url)
+- 🌐 Portfolio: [Your Website](your-website-url)
+
+---
+
+⭐️ From [Najmi Hassan](https://github.com/your-github-username)

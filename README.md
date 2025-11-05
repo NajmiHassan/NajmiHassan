@@ -44,37 +44,37 @@ Jupyter Notebook | Google Colab | VS Code
 
 ### 🏆 Featured Projects
 
-#### 🎨 [RAISE YOUR HACK Winner - AI Fashion Shopping](project-link)
+#### 🎨 [RAISE YOUR HACK Winner - AI Fashion Shopping](https://lablab.ai/event/raise-your-hack/jroq-prosus-track/fashion-ai)
 > Innovative fashion-tech project with multimodal AI-powered shopping experience
 - **Tech:** Llama, Groq, Fetch.ai, TypeScript, Node.js
 - Built dynamic chatroom with text, image, and voice inputs
 - User-centered responsive UI design
 
-#### 🧬 [GeneGazer - Bioinformatics Analysis Tool](project-link)
+#### 🧬 [GeneGazer - Bioinformatics Analysis Tool](https://lablab.ai/event/code-craft-ai-x-dev-hackathon/goat-trae-hack/genegazer)
 > Single-cell RNA-seq data analysis platform with AI insights
 - **Tech:** Gemini AI, Streamlit, Scanpy, Leiden Algorithm
 - Led international team in Zero Limits Hackathon
 - Interactive visualizations with context-aware AI analysis
 
-#### 🔬 [Virtual Biology Lab - Multi-Agent System](project-link)
+#### 🔬 [Virtual Biology Lab - Multi-Agent System](https://lablab.ai/event/internet-of-agents/coral-synergy/virtual-bio-lab)
 > AI-powered experimental workflow automation
 - **Tech:** CrewAI, Mistral LLM, Streamlit
 - 5 specialized AI agents for protocol interpretation to report generation
 - Automated biological experiment simulation
 
-#### 📚 [AI Grammar Learning Platform](project-link)
+#### 📚 [AI Grammar Learning Platform](https://lablab.ai/event/co-creating-with-gpt-5/ai-mavericks/smartlearn)
 > Intelligent English learning system for high school students
 - **Tech:** GPT-5, Streamlit
 - Bilingual (Urdu-English) content generation
 - Real-time personalized feedback and assessments
 
-#### 🌫️ [Air Pollution Prediction System](project-link)
+#### 🌫️ [Air Pollution Prediction System](https://github.com/NajmiHassan/Air-Pollution-Prediction-System)
 > ML-powered air quality forecasting application
 - **Tech:** Streamlit, Hugging Face, Supervised ML
 - 92% accuracy in air quality prediction
 - PM 2.5 level forecasting
 
-#### 🎥 [Real-Time Object Detection & Counting](project-link)
+#### 🎥 [Real-Time Object Detection & Counting](https://www.linkedin.com/posts/najmihassan_deeplearning-computervision-objectdetection-activity-7300181042731102210-T0YE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9dRCIBVCPdx5YQZo6qu_G6g7nPD_HcptU)
 > YOLO-based video analysis tool
 - **Tech:** YOLO v4, Streamlit, Hugging Face
 - Frame-by-frame object detection
@@ -123,22 +123,20 @@ Jupyter Notebook | Google Colab | VS Code
 
 ### 🌱 Currently Exploring
 
+- Data Structures & Algorithms
+- AI for Scocial Good
 - Advanced LLM Fine-tuning Techniques
 - Multi-Agent AI Systems
-- Bioinformatics & Computational Biology
-- DevOps & Cloud Technologies
-
 ---
 
 ### 📫 Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-- 💼 LinkedIn: [Your Profile](your-linkedin-url)
-- 📧 Email: your.email@example.com
-- 🏅 LeetCode: [Your Profile](your-leetcode-url)
-- 🌐 Portfolio: [Your Website](your-website-url)
+- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/najmihassan)
+- 📧 Email: najmi8815@gmail.com
+- 🏅 LeetCode: [Your Profile](https://leetcode.com/u/Najmi_Hassan/)
 
 ---
 
-⭐️ From [Najmi Hassan](https://github.com/your-github-username)
+⭐️ From [Najmi Hassan](https://github.com/NajmiHassan)

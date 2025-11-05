@@ -86,7 +86,7 @@ Jupyter Notebook | Google Colab | VS Code
 
 **BS Software Engineering** | Minhaj University Lahore (2020-2024)
 - CGPA: 3.67/4.00
-- 40% merit scholarship throughout degree
+- 50% merit scholarship throughout degree
 - Final Year Project: Image Forgery Detection System (85% accuracy)
 
 **Notable Achievements:**

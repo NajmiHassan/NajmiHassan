@@ -1,6 +1,6 @@
 # Hi there, I'm Najmi Hassan 👋
 
-## Software Engineer | AI Enthusiast | Open Source Contributor
+## Software Engineer | AI Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-url)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=flat&logo=leetcode)](your-leetcode-url)

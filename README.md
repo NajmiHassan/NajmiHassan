@@ -2,9 +2,9 @@
 
 ## Software Engineer | AI Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-url)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=flat&logo=leetcode)](your-leetcode-url)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your-email)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin](https://www.linkedin.com/in/najmihassan))](your-linkedin-url)
+[![LeetCode](https://leetcode.com/u/Najmi_Hassan/)](your-leetcode-url)
+[![Email](najmi8815@gmail.com](mailto:your-email)
 
 ---
 

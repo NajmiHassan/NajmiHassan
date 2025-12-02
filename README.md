@@ -10,7 +10,11 @@
 
 ### 🚀 About Me
 
-I'm a passionate Software Engineer specializing in **AI/ML** and **Web Development**, with a strong focus on building intelligent systems that solve real-world problems. Fresh graduate from Minhaj University Lahore with a CGPA of 3.67/4.00, I love participating in hackathons and competitive programming challenges.
+Hello, Najmi this side. I am a Software Engineering graduate passionate about applying artificial intelligence to solve real-world problems. My focus lies in machine learning, deep learning, and large language models, with hands-on experience across domains ranging from computer vision to natural language processing.
+
+During my academic journey, I developed an image forgery detection system as my final year project, achieving 85% accuracy on benchmark datasets. I have also participated in international hackathons and competitions, leading teams to build innovative AI-powered applications in fields such as bioinformatics, finance, and education.
+
+I bring a strong foundation in ML/DL, data analysis, and AI-powered application with proficiency in Python, Streamlit, Django, and machine learning libraries such as TensorFlow, PyTorch, and Keras. Alongside technical expertise, I enjoy mentoring and teaching, having trained and guided students in Generative AI, Python, and data science fundamentals.
 
 - 🏆 **1st Place** winner at RAISE Hackathon
 - 🎯 Participated in **10+ international AI hackathons**
